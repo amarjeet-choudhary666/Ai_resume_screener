@@ -275,9 +275,5 @@ For support and questions:
 - [ ] Frontend web application
 - [ ] Advanced analytics and reporting
 - [ ] Integration with ATS systems
-- [ ] Multi-language support
-- [ ] Advanced AI models for better matching
 - [ ] Real-time notifications
 - [ ] Bulk resume processing
-- [ ] Custom scoring algorithms
-- [ ] Integration with LinkedIn and other platforms
